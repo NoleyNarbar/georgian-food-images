@@ -1,11 +1,11 @@
 [
-    {
-        "url": "https://raw.githubusercontent.com/NoleyNarbar/georgian-food-images/main/ghomi.jpeg?raw=true",
-        "id": "1",
-        "isFavorite": false,
-        "name": "Ghomi",
-        "price": 11
-    },
+        {
+            "url": "https://raw.githubusercontent.com/NoleyNarbar/georgian-food-images/main/shkmeruli.jpg?raw=true",
+            "id": "1",
+            "isFavorite": false,
+            "name": "Shkmeruli",
+            "price": 30
+        },
     {
         "url": "https://raw.githubusercontent.com/NoleyNarbar/georgian-food-images/main/khach-megruli.jpg?raw=true",
         "id": "2",
@@ -35,11 +35,11 @@
         "price": 10
     },
     {
-        "url": "https://raw.githubusercontent.com/NoleyNarbar/georgian-food-images/main/shkmeruli.jpg?raw=true",
+        "url": "https://raw.githubusercontent.com/NoleyNarbar/georgian-food-images/main/ghomi.jpeg?raw=true",
         "id": "6",
         "isFavorite": false,
-        "name": "Shkmeruli",
-        "price": 30
+        "name": "Ghomi",
+        "price": 11
     },
     {
         "url": "https://raw.githubusercontent.com/NoleyNarbar/georgian-food-images/main/shoti.jpg?raw=true",
